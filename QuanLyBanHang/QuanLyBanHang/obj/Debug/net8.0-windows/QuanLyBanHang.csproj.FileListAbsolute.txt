@@ -1,0 +1,9 @@
+Z:\DTH235657_NguyenThaiHoa_Buoi4\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.Form1.resources
+Z:\DTH235657_NguyenThaiHoa_Buoi4\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.frmHoaDon_ChiTiet.resources
+Z:\DTH235657_NguyenThaiHoa_Buoi4\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.csproj.GenerateResource.cache
+Z:\DTH235657_NguyenThaiHoa_Buoi4\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DTH235657_NguyenThaiHoa_Buoi4\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.AssemblyInfoInputs.cache
+Z:\DTH235657_NguyenThaiHoa_Buoi4\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.AssemblyInfo.cs
+Z:\DTH235657_NguyenThaiHoa_Buoi4\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.csproj.CoreCompileInputs.cache
+Z:\DTH235657_NguyenThaiHoa_Buoi4\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.csproj.AssemblyReference.cache
+Z:\DTH235657_NguyenThaiHoa_Buoi4\QuanLyBanHang\QuanLyBanHang\obj\Debug\net8.0-windows\QuanLyBanHang.QLBHDbContext.resources
